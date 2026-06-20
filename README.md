@@ -1,5 +1,4 @@
 # Mini Layout Engine
-___________________________________________________
 A C++ implementation of core layout algorithms demonstrating understanding understanding of browser rendering fundamentals. Built as preparation for the WebKit Layout and Rendering team internship
 
 Project Overview
