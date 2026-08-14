@@ -23,7 +23,7 @@ Relavance to WebKit
 ```
 The WebKit Layout and Rendering team works on the core engine that determines how web content appears on billions of Apple devices.
 ```
-- `This`, `project` , `demonstrates`- :
+This project demonstrates:
 
 1. Layout Tree Structure
 
@@ -78,7 +78,7 @@ The WebKit Layout and Rendering team works on the core engine that determines ho
 ## Project Scope 
 
 
-- `Included`, `Features`: 
+Included Features: 
 
 ➢ Box model: margin, border, padding, content 
 
