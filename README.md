@@ -23,9 +23,10 @@ Relavance to WebKit
 ```
 The WebKit Layout and Rendering team works on the core engine that determines how web content appears on billions of Apple devices.
 ```
-This project demonstrates:
 
-1. Layout Tree Structure
+## This project demonstrates:
+
+1. **Layout Tree Structure**
 
 ➢ Node hierarchy (Box model)
 
@@ -33,7 +34,8 @@ This project demonstrates:
 
 ➢ Tree traversal
 
-2. Block Layout ALgorithm
+
+2. **Block Layout ALgorithm**
 
 ➢ Normal flow layout
 
@@ -41,7 +43,7 @@ This project demonstrates:
 
 ➢ Containing block logic
 
-3. Flexbox Layout Algorithm (Simplified)
+3. **Flexbox Layout Algorithm (Simplified)**
 
 ➢ Main axis / cross axis
 
@@ -49,7 +51,7 @@ This project demonstrates:
 
 ➢ Justification and alignment basics
 
-4. Text Layout Engine
+4. **Text Layout Engine**
 
 ➢ Word wrapping and line breaking algorithm
 
@@ -59,7 +61,7 @@ This project demonstrates:
 
 ➢ Justified text with even word spacing distribution
 
-5. Layout Engine
+5. **Layout Engine**
 
 ➢ Coordinates Layout passes
 
@@ -67,7 +69,7 @@ This project demonstrates:
 
 ➢ Computes final positions
 
-6. Testing Framework
+6. **Testing Framework**
 
 ➢ Unit tests for layout calculations
 
@@ -80,19 +82,19 @@ This project demonstrates:
 
 Included Features: 
 
-➢ Box model: margin, border, padding, content 
+➢ **Box model:** margin, border, padding, content 
 
-➢ Block layout: Vertical stacking, width/height calculation
+➢ **Block layout:** Vertical stacking, width/height calculation
 
-➢ Basic flexbox: flex-direction (row/column), justify-content, align-items
+➢ **Basic flexbox:** flex-direction (row/column), justify-content, align-items
 
-➢ Text layout: Word wrapping, line breaking, left/center/right/justify alignment
+➢ **Text layout:** Word wrapping, line breaking, left/center/right/justify alignment
 
-➢ Font metrics: Configure character width, line height, letter spacing
+➢ **Font metrics:** Configure character width, line height, letter spacing
 
-➢ Positioning: Normal flow only (no absolute/fixed)
+➢ **Positioning:** Normal flow only (no absolute/fixed)
 
-➢ Properties: Width, height, margin, padding, display, flex properties
+➢ **Properties:** Width, height, margin, padding, display, flex properties
 
 ➢ Testing: Comprehensive unit and integration tests
 
