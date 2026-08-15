@@ -1,10 +1,10 @@
-### Mini Layout Engine
+## Mini Layout Engine
 
-## A C++ implementation of core layout algorithms demonstrating understanding understanding of browser rendering fundamentals. Built as preparation for the WebKit Layout and Rendering team internship
+### A C++ implementation of core layout algorithms demonstrating understanding understanding of browser rendering fundamentals. Built as preparation for the WebKit Layout and Rendering team internship
 
-### Project Overview
+## Project Overview
 
-## This project implements a simplified layout engine in C++ that:
+### This project implements a simplified layout engine in C++ that:
 
 ➢ Parses a simplified layout description format (CSS-like properties)
 ➢ Construct a layout tree
@@ -13,7 +13,7 @@
 ➢ Calculates positions and dimensions
 ➢ Includes comprehensive testing
 
-### Relavance to WebKit
+## Relavance to WebKit
 
 ## The WebKit Layout and Rendering team works on the core engine that determines how web content appears on billions of Apple devices.
 
