@@ -1,6 +1,6 @@
 ## Mini Layout Engine
 
-### A C++ implementation of core layout algorithms demonstrating understanding understanding of browser rendering fundamentals. Built as preparation for the WebKit Layout and Rendering team internship
+#### A C++ implementation of core layout algorithms demonstrating understanding understanding of browser rendering fundamentals. Built as preparation for the WebKit Layout and Rendering team internship
 
 ## Project Overview
 
@@ -58,10 +58,10 @@
 ➢ Regression test suite
 ➢ Performance benchmarks
 
-### Project Scope 
+## Project Scope 
 
 
-## Included Features: 
+### Included Features: 
 
 ➢ **Box model:** margin, border, padding, content 
 ➢ **Block layout:** Vertical stacking, width/height calculation
