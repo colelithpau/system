@@ -75,7 +75,7 @@
 
 ➢ Performance benchmarks
 
-### Project Scope 
+## Project Scope 
 
 #### Included Features: 
 
